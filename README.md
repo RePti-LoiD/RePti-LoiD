@@ -2,8 +2,8 @@ READMEEEEEEE
 
 - 👋 Hi, I’m @RePti-LoiD Just coding on c# Unity/.NET.
 - 👀 I’m interested in GameDev and Web
-- 🌱 I’m currently learning C#, Html, Css
-- 💞️ I’m looking to collaborate on: any project, I like this
+- 🌱 I’m tree.
+- 💞️ I’m looking to collaborate on: Gachi Page
 - 📫 How to reach me: send me paper plane) 
 
 <!---
